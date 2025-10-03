@@ -132,6 +132,7 @@ const books = [
     pages: 342,
     publisher: 'Thomas Cautley Newby'
   }
+  
 ];
 
 // Function to insert books into MongoDB
